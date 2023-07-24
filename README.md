@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks 👋
 - 🎓 I’m a Computer Scientist graduated from UFV (Federal University of Viçosa)
 - 🍎 2+ years of professional experience on iOS Development
 
