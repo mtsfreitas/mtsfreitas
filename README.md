@@ -5,7 +5,7 @@
 
 🎓 BSc in Computer Science
 
-## Technical course
+### Technical course
 🏫 National Service for Industrial Apprenticeship (SENAI)
 
 🎓 Information Technology
