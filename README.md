@@ -1,7 +1,6 @@
+### About me
 🏫 Federal University of Viçosa
-
 🎓 BSc in Computer Science
-
 💻 iOS Developer
 
 
