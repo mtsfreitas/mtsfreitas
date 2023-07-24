@@ -61,16 +61,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 
-
-
-
-
-
-
-
-
-
-
 ## 👩‍💻 IDE 
 <img align="center" alt="XCODE" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
 <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -83,19 +73,25 @@
 <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
-
 ## 📚 Studies
 
-### 🍏 iOS
-<a href="https://github.com/mtsfreitas/swiftacademy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=swiftacademy" />
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <!-- iOS -->
+  <div>
+    <h3>🍏 iOS</h3>
+    <a href="https://github.com/mtsfreitas/swiftacademy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=swiftacademy" />
+    </a>
+  </div>
 
-### 🤖 Machine Learning Engineering
-<a href="https://github.com/mtsfreitas/dropmaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=dropmaster" />
-</a>
-
+  <!-- Machine Learning Engineering -->
+  <div>
+    <h3>🤖 Machine Learning Engineering</h3>
+    <a href="https://github.com/mtsfreitas/dropmaster">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=dropmaster" />
+    </a>
+  </div>
+</div>
 
 
 ## 💼 Freelance Jobs
