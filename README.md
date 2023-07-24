@@ -1,7 +1,7 @@
-### Hi Folks 👋
-- 🎓 I’m a Computer Scientist graduated from UFV (Federal University of Viçosa)
-- 🍎 2+ years of professional experience on iOS Development
+### Nice to meet you 
 
+🎓 I hold a Bachelor's Degree in Computer Science from UFV (Federal University of Viçosa).
+🍎 2+ years of professional experience in iOS Development.
 
 
 ## 🌐 Social
@@ -11,6 +11,10 @@
 <a href="mailto:mtsftsmts@gmail.com">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://leetcode.com/mtsftsmts/" target="_blank">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
 
 
 ## 📈 Stats
@@ -22,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true)
 
-
+### Languages
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -43,6 +47,28 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+### 🛠️ Tools
+<img align="center" alt="html5" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+
+
+
+
+
+
+
+
+
 
 
 ## 👩‍💻 IDE 
