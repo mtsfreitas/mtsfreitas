@@ -1,6 +1,14 @@
-### About me
+## 👩‍💻 About me
+
+### Bachelor's degree
 🏫 Federal University of Viçosa
 🎓 BSc in Computer Science
+
+## Technical course
+🏫 National Service for Industrial Apprenticeship (SENAI)
+🎓 Information Technology
+
+### Mobile Developer
 💻 iOS Developer
 
 
