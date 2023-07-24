@@ -1,6 +1,7 @@
 ### Nice to meet you 
 
 🎓 I hold a Bachelor's Degree in Computer Science from UFV (Federal University of Viçosa).
+
 🍎 2+ years of professional experience in iOS Development.
 
 
