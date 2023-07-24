@@ -1,5 +1,3 @@
-### Nice to meet you 
-
 🏫 Federal University of Viçosa
 
 🎓 BSc in Computer Science
