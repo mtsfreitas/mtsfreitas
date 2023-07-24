@@ -1,15 +1,3 @@
-## 👩‍💻 About me
-
-### 🎓 Bachelor's degree
-BSc in Computer Science
-
-### 🎓 Technical course
-Information Technology
-
-### 📱 Mobile Developer
-iOS Developer
-
-
 ## 🌐 Social
 <a href="https://www.linkedin.com/in/mtsfreitas/" target="_blank">
   <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
