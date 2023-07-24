@@ -75,23 +75,10 @@
 
 ## 📚 Studies
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- iOS -->
-  <div>
-    <h3>🍏 iOS</h3>
-    <a href="https://github.com/mtsfreitas/swiftacademy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=swiftacademy" />
-    </a>
-  </div>
 
-  <!-- Machine Learning Engineering -->
-  <div>
-    <h3>🤖 Machine Learning Engineering</h3>
-    <a href="https://github.com/mtsfreitas/dropmaster">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=dropmaster" />
-    </a>
-  </div>
-</div>
+| 🍏 iOS | 🤖 Machine Learning Engineering |
+|:------:|:----------------------------:|
+| [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=swiftacademy)](https://github.com/mtsfreitas/swiftacademy) | [![Machine Learning Engineering](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=dropmaster)](https://github.com/mtsfreitas/dropmaster) |
 
 
 ## 💼 Freelance Jobs
