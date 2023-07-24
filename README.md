@@ -72,8 +72,8 @@
 
 ## 💼 Freelance Jobs
 
-<a href="https://github.com/mtsfreitas/trackbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=trackbox" />
+<a href="https://github.com/mtsfreitas/packagetrack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=packagetrack" />
 </a>
 
 </div>
