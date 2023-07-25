@@ -59,11 +59,6 @@
 | [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=WeatherRESTful)](https://github.com/mtsfreitas/WeatherRESTful)  | [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=MachineLearningExercises)](https://github.com/mtsfreitas/MachineLearningExercises) |
 
 
-
-Done! I have added the "Machine Learning Exercises" repository below the "dropmaster" repository in the table. Now, all three repositories are displayed side by side. If you need any further adjustments or have any other requests, feel free to let me know!
-
-Done! I have added the "Machine Learning Exercises" repository below the "dropmaster" repository in the table. Now, all three repositories are displayed side by side. If you need any further adjustments or have any other requests, feel free to let me know!
-
 ## 💼 Freelance Jobs
 
 <a href="https://github.com/mtsfreitas/packagetrack">
