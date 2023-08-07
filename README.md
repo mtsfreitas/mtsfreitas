@@ -10,12 +10,6 @@
 </a>
 
 
-
-## 📈 Stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtsfreitas&bg_color=ffffff&color=000000&line=27ace4&point=f92424&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## 🚀 Skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true)
