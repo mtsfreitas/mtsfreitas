@@ -105,7 +105,16 @@
 </details>
 
 <details>
- <summary>⛰️ Challenges </summary>
+ <summary>📊 Statistic </summary>
+
+| Project | Description |
+| ------- | ----------- |
+| [![Statistical Analysis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&repo=statistical-analysis)](https://github.com/mtsfreitas/statistical-analysis) | Statistical Analysis: An example repository for statistical analysis projects. |
+</details>
+
+
+<details>
+ <summary>⛰️ Technical Challenges </summary>
 
 | Project | Description |
 | ------- | ----------- |
