@@ -78,7 +78,9 @@
 | Project | Description |
 | ------- | ----------- |
 | [![Chimera App Design](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=chimera-app-design)](https://github.com/mtsfreitas/chimera-app-design) | Chimera App Design: Design assets for the Chimera app project. |
+| [![App Video Presentation](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=app-video-presentation)](https://github.com/mtsfreitas/app-video-presentation) | App Video Presentation: Design and assets for an app video presentation. |
 </details>
+
 
 <details>
  <summary>☕ Java </summary>
