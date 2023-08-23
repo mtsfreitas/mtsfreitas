@@ -46,6 +46,10 @@
 |:------:|:----------------------------:|
 | [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=swiftacademy)](https://github.com/mtsfreitas/swiftacademy) | [![Machine Learning Engineering](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=dropmaster)](https://github.com/mtsfreitas/dropmaster) |
 | [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=WeatherRESTful)](https://github.com/mtsfreitas/WeatherRESTful)  | [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=MachineLearningExercises)](https://github.com/mtsfreitas/MachineLearningExercises) |
+| [![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=CurrencyConverter)](https://github.com/mtsfreitas/CurrencyConverter) | [![Dropmaster](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=dropmaster)](https://github.com/mtsfreitas/dropmaster) |
+| [![Simple Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Simple-Calculator-App)](https://github.com/mtsfreitas/Simple-Calculator-App)  | [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=MachineLearningExercises)](https://github.com/mtsfreitas/MachineLearningExercises) |
+| [![SOLID](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=SOLID)](https://github.com/mtsfreitas/SOLID)  | [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=WeatherRESTful)](https://github.com/mtsfreitas/WeatherRESTful) |
+
 
 
 ## 💼 Freelance Jobs
