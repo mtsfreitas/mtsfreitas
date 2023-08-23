@@ -116,7 +116,7 @@
 
 
 <details>
- <summary>⛰️ Technical Challenges </summary>
+ <summary>⛰️ Coding Challenges </summary>
 
 | Project | Description |
 | ------- | ----------- |
