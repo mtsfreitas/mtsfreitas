@@ -49,9 +49,10 @@
 </details>
 
 <details>
-  <summary> 👅 Summary of most used languages on my github </summary>
+  <summary> 👅 TOP 10 most used languages on my github </summary>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true&layout=compact&langs_count=10)](https://github.com/mtsfreitas)
+
 ---
 </details>
 
