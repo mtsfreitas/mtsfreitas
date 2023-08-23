@@ -3,7 +3,7 @@
 
 🏫 Universidade Federal de Viçosa (UFV).
 
-🍎 2+ years of professional experience in iOS Development.
+👨‍💻 2+ years of professional experience in 🍏 iOS Development.
 
 ## 🌐 Social
 <a href="https://www.linkedin.com/in/mtsfreitas/" target="_blank">
