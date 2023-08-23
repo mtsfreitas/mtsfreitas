@@ -110,7 +110,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Statistical Analysis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&repo=statistical-analysis)](https://github.com/mtsfreitas/statistical-analysis) | Statistical Analysis: An example repository for statistical analysis projects. |
+| [![Statistical Analysis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&repo=statistical-analysis)](https://github.com/mtsfreitas/statistical-analysis) | Statistical Analysis: statistical analysis projects. |
 </details>
 
 
