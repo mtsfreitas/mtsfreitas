@@ -39,7 +39,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 
 
-## 📚 My study projects
+## 📚 My projects
 
 <details>
  <summary>🍏 iOS </summary>
