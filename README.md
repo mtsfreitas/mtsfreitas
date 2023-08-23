@@ -53,7 +53,6 @@
 | [![Swift Academy](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Swift-Academy)](https://github.com/mtsfreitas/Swift-Academy) | Swift Academy: Repository for Swift learning resources and projects. |
 </details>
 
-
 <details>
  <summary>🤖 Machine Learning Engineering </summary>
 
@@ -63,14 +62,12 @@
 | [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Machine-Learning-Exercises)](https://github.com/mtsfreitas/Machine-Learning-Exercises) | Machine Learning Exercises: A collection of exercises and examples in machine learning. |
 </details>
 
----
+<details>
+ <summary>🌐 Website </summary>
 
-
-
-## 💼 Freelance Jobs
-
-<a href="https://github.com/mtsfreitas/packagetrack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=packagetrack" />
-</a>
+| Project | Description |
+| ------- | ----------- |
+| [![PackageTrack](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=packagetrack)](https://github.com/mtsfreitas/packagetrack) | PackageTrack: A web-based package tracking application. |
+</details>
 
 </div>
