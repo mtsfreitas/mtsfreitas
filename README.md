@@ -1,3 +1,8 @@
+### Nice to meet you 
+🎓 Bachelor's Degree in Computer Science
+🏫 Universidade Federal de Viçosa (UFV).
+🍎 2+ years of professional experience in iOS Development.
+
 ## 🌐 Social
 <a href="https://www.linkedin.com/in/mtsfreitas/" target="_blank">
   <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
