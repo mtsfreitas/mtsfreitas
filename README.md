@@ -85,7 +85,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=battleship)](https://github.com/mtsfreitas/battleship) | Battleship: A Java implementation of the classic game Battleship. |
+| [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=battleship-game-sockets)](https://github.com/mtsfreitas/battleship-game-sockets) | Battleship: A Java implementation of the classic game Battleship. |
 </details>
 
 
