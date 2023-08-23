@@ -53,7 +53,7 @@
 ---
 </details>
 
-## 📚 My projects
+## 📚 My public projects
 
 <details>
  <summary>🍏 iOS </summary>
