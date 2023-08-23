@@ -46,7 +46,7 @@
 </details>
 
 <details>
-  <summary> 👅 Resume </summary>
+  <summary> 👅 Summary of most used languages on my github </summary>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true)
 ---
