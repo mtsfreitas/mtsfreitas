@@ -33,6 +33,7 @@
 | Containers | <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> |
 | Servers | <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> |
 | Continuous Integration (CI) | <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> |
+| Continuous Deployment (CD) | https://img.shields.io/badge/-AppCenter-0f1d51? |
 | Cloud | <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> |
 | Agile | <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |
 | Testing | <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Appium" src="https://img.shields.io/badge/-Appium-43B02A" /> |
