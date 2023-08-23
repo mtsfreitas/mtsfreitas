@@ -70,4 +70,13 @@
 | [![PackageTrack](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=packagetrack)](https://github.com/mtsfreitas/packagetrack) | PackageTrack: A web-based package tracking application. |
 </details>
 
+<details>
+ <summary>🎨 Design </summary>
+
+| Project | Description |
+| ------- | ----------- |
+| [![Chimera App Design](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=chimera-app-design)](https://github.com/mtsfreitas/chimera-app-design) | Chimera App Design: Design assets for the Chimera app project. |
+</details>
+
+
 </div>
