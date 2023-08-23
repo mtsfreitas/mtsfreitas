@@ -20,7 +20,7 @@
 ## 💻 Skills
 
 <details>
-  <summary> 🛠️Experience</summary>
+  <summary> 🛠️ Experience</summary>
 
 | Skill   | Technologies |
 |---------|--------------|
