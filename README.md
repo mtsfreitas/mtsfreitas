@@ -108,8 +108,9 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![CI&T Challenge](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=ciet-challenge)](https://github.com/mtsfreitas/ciet-challenge) | CI&T Challenge: A repository for the CI&T coding challenge. |
+| [![CI&T Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=ciet-challenge)](https://github.com/mtsfreitas/ciet-challenge) | CI&T Challenge: A repository for the CI&T coding challenge. |
 </details>
+
 
 
 
