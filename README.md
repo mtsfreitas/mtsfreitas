@@ -45,6 +45,12 @@
 ---
 </details>
 
+<details>
+  <summary> 👅 Resume </summary>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true)
+---
+</details>
 
 ## 📚 My projects
 
