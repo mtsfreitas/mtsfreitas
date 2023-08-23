@@ -68,7 +68,9 @@
 | Project | Description |
 | ------- | ----------- |
 | [![PackageTrack](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=packagetrack)](https://github.com/mtsfreitas/packagetrack) | PackageTrack: A web-based package tracking application. |
+| [![MaBank CRUD](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=mabank-crud)](https://github.com/mtsfreitas/mabank-crud) | MaBank CRUD: A web-based CRUD application for managing bank accounts. |
 </details>
+
 
 <details>
  <summary>🎨 Design </summary>
