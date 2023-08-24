@@ -16,6 +16,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>-->
 
+https://www.beecrowd.com.br/judge/pt/profile/165068
+
 ## 💻 Skills
 
 <details>
@@ -23,7 +25,7 @@
 
 | Skill   | Technologies |
 |---------|--------------|
-| Mobile | <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img align="center" alt="Obj-c" src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white"/> <img align="center" alt="Obj-c" src="https://img.shields.io/badge/SwiftUI-%3f48cc.svg?style=for-the-badge&logo=swift&logoColor=white"/> |
+| Mobile | <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img align="center" alt="Obj-c" src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white"/> <img align="center" alt="Obj-c" src="https://img.shields.io/badge/SwiftUI-3f48cc.svg?style=for-the-badge&logo=swift&logoColor=white"/> |
 | Backend | <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>|
 | Frontend | <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-157286?style=flat-square&logo=css3&logoColor=white" /> |
 | Statistical Analysis | <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> |
