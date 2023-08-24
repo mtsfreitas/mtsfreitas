@@ -16,7 +16,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>-->
 
-
 ## 💻 Skills
 
 <details>
@@ -49,7 +48,7 @@
 </details>
 
 <details>
-  <summary> 👅 Top 10 most used languages on my github </summary>
+  <summary> 👅 Top 10 most used languages on my github projects </summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true&layout=compact&langs_count=10)](https://github.com/mtsfreitas)
 
@@ -89,7 +88,6 @@
 | [![MaBank CRUD](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=mabank-crud)](https://github.com/mtsfreitas/mabank-crud) | MaBank CRUD: A web-based CRUD application for managing bank accounts. |
 </details>
 
-
 <details>
  <summary>🎨 Design </summary>
 
@@ -98,7 +96,6 @@
 | [![Chimera App Design](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=chimera-app-design)](https://github.com/mtsfreitas/chimera-app-design) | Chimera App Design: Design assets for the Chimera app project. |
 | [![App Video Presentation](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=app-video-presentation)](https://github.com/mtsfreitas/app-video-presentation) | App Video Presentation: Design and assets for an app video presentation. |
 </details>
-
 
 <details>
  <summary>☕ Java </summary>
@@ -116,8 +113,6 @@
 | [![Intro to C Programming](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=intro-to-c-programming)](https://github.com/mtsfreitas/intro-to-c-programming) | Intro to C Programming: A repository for learning the basics of C programming. |
 </details>
 
-
-
 <details>
  <summary>📊 Statistic </summary>
 
@@ -126,7 +121,6 @@
 | [![Statistical Analysis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&repo=statistical-analysis)](https://github.com/mtsfreitas/statistical-analysis) | Statistical Analysis: statistical analysis projects. |
 </details>
 
-
 <details>
  <summary>⛰️ Coding Challenges </summary>
 
@@ -134,7 +128,5 @@
 | ------- | ----------- |
 | [![CI&T Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=ciet-challenge)](https://github.com/mtsfreitas/ciet-challenge) | CI&T Challenge: A repository for the CI&T coding challenge. |
 </details>
-
-
 
 </div>
