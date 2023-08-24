@@ -118,6 +118,7 @@
 | [![Robocode](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=robocode)](https://github.com/mtsfreitas/robocode) | Robocode: A programming game where you code robot tanks to battle against each other. |
 | [![Programming in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=programming-in-java)](https://github.com/mtsfreitas/programming-in-java) | Programming in Java: A collection of Java exercises. |
 | [![Polymorphism in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=polymorphism-in-java)](https://github.com/mtsfreitas/polymorphism-in-java) | Polymorphism in Java: Examples and explanations of polymorphism in Java. |
+| [![Electronic Voting Machine](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=electronic-voting-machine)](https://github.com/mtsfreitas/electronic-voting-machine) | Electronic Voting Machine: Repository for the electronic-voting-machine project. |
 
 </details>
 
