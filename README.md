@@ -18,6 +18,11 @@
 <a href="https://leetcode.com/mtsftsmts/" target="_blank">
   <img align="center" alt="html5" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
+<!-- 
+<a href="url_here" target="_blank">
+  <img align="center" alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a> -->
+
 
 ## 💻 Skills
 
