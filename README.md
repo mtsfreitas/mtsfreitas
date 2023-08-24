@@ -122,11 +122,12 @@
 </details>
 
 <details>
- <summary>🦖 C </summary>
+ <summary>🦖 C / C++ </summary>
 
 | Project | Description |
 | ------- | ----------- |
 | [![Intro to C Programming](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=intro-to-c-programming)](https://github.com/mtsfreitas/intro-to-c-programming) | Intro to C Programming: A repository for learning the basics of C programming. |
+| [![Academic Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=academic-management)](https://github.com/mtsfreitas/academic-management) | Academic Management: A comprehensive school academic management system developed using Object-Oriented Programming (OOP) principles. |
 </details>
 
 <details>
