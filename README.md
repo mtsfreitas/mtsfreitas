@@ -71,12 +71,13 @@
 </details>
 
 <details>
- <summary>🤖 Machine Learning Engineering </summary>
+ <summary>🤖 Artificial Intelligence and Machine Learning Engineering </summary> 
 
 | Project | Description |
 | ------- | ----------- |
 | [![Drop Master](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Drop-Master)](https://github.com/mtsfreitas/Drop-Master) | Drop Master: A machine learning project focused on mastering the art of drops. |
 | [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Machine-Learning-Exercises)](https://github.com/mtsfreitas/Machine-Learning-Exercises) | Machine Learning Exercises: A collection of exercises and examples in machine learning. |
+| [![Photo Classification with Gradio](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=photo-classification-with-gradio)](https://github.com/mtsfreitas/photo-classification-with-gradio) | Photo Classification with Gradio: Coleta e classificação de fotos utilizando Google Colab através da interface do Gradio. |
 </details>
 
 <details>
