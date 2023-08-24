@@ -3,7 +3,7 @@
 
 🎓 Computer Technician | 🏫 [SENAI Santa Luzia CFP João Carlos Giovannini](https://www.fiemg.com.br/escolas/senai-santa-luzia-cfp-joao-carlos-giovannini/)
 
-👨‍💻 2+ years of professional experience in <b>iOS Development</b>.
+💼 2+ years of professional experience in <b>iOS Development</b>.
 
 ## 🌐 Social
 <a href="https://www.linkedin.com/in/mtsfreitas/" target="_blank">
@@ -126,7 +126,7 @@
 </details>
 
 <details>
- <summary>⛰️ Coding Challenges </summary>
+ <summary>👨‍💻 Coding Challenges </summary>
 
 | Project | Description |
 | ------- | ----------- |
