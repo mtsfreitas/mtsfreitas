@@ -1,7 +1,7 @@
 ### Nice to meet you! 👋 I'm Matheus <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />
 🎓 Bachelor's Degree in Computer Science | 🏫 [Universidade Federal de Viçosa (UFV)](https://www.linkedin.com/school/universidade-federal-de-vicosa/)
 
-🎓 Computer Technician | 🏫 SENAI Santa Luzia CFP João Carlos Giovannini
+🎓 Computer Technician | 🏫 [SENAI Santa Luzia CFP João Carlos Giovannini](https://www.fiemg.com.br/escolas/escola-integrada-sesi-senai-santa-luzia-joao-carlos-giovannini/)
 
 👨‍💻 2+ years of professional experience in <b>iOS Development</b>.
 
