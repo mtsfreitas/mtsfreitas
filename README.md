@@ -114,6 +114,7 @@
 | Project | Description |
 | ------- | ----------- |
 | [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=battleship-game-sockets)](https://github.com/mtsfreitas/battleship-game-sockets) | Battleship: A Java implementation of the classic game Battleship. |
+| [![Genius Game Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=genius-game-java)](https://github.com/mtsfreitas/genius-game-java) | Genius Game Java: A Java implementation of the classic Genius (Simon) game. |
 </details>
 
 <details>
