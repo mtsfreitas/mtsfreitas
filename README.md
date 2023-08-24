@@ -120,6 +120,7 @@
 | [![Polymorphism in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=polymorphism-in-java)](https://github.com/mtsfreitas/polymorphism-in-java) | Polymorphism in Java: Examples and explanations of polymorphism in Java. |
 | [![Electronic Voting Machine](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=electronic-voting-machine)](https://github.com/mtsfreitas/electronic-voting-machine) | Electronic Voting Machine: Repository for the electronic-voting-machine project. |
 | [![Payroll](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=payroll)](https://github.com/mtsfreitas/payroll) | Payroll: A Java project for payroll management using modularization. |
+| [![Commercial Management](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=commercial-management)](https://github.com/mtsfreitas/commercial-management) | Commercial Management: Repository for the commercial management project. |
 
 </details>
 
