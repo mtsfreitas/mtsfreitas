@@ -71,7 +71,7 @@
 </details>
 
 <details>
- <summary>🤖 Artificial Intelligence and Machine Learning Engineering </summary> 
+ <summary>🤖 AI and Machine Learning Engineering </summary> 
 
 | Project | Description |
 | ------- | ----------- |
