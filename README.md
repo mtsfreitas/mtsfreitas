@@ -108,6 +108,16 @@
 </details>
 
 <details>
+ <summary>🦖 C </summary>
+
+| Project | Description |
+| ------- | ----------- |
+| [![Intro to C Programming](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=intro-to-c-programming)](https://github.com/mtsfreitas/intro-to-c-programming) | Intro to C Programming: A repository for learning the basics of C programming. |
+</details>
+
+
+
+<details>
  <summary>📊 Statistic </summary>
 
 | Project | Description |
@@ -123,7 +133,6 @@
 | ------- | ----------- |
 | [![CI&T Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=ciet-challenge)](https://github.com/mtsfreitas/ciet-challenge) | CI&T Challenge: A repository for the CI&T coding challenge. |
 </details>
-
 
 
 
