@@ -123,7 +123,7 @@
 </details>
 
 <details>
- <summary>📊 Statistic </summary>
+ <summary>📊 R </summary>
 
 | Project | Description |
 | ------- | ----------- |
