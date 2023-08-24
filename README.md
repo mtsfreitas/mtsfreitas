@@ -70,8 +70,8 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=currency-converter)](https://github.com/mtsfreitas/currency-converter) | Currency Converter App: A simple iOS app for converting currencies. |
-| [![Simple Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Simple-Calculator-App)](https://github.com/mtsfreitas/Simple-Calculator-App)  | Simple Calculator App: A basic calculator app built for iOS. |
+| [![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=currency-converter-app)](https://github.com/mtsfreitas/currency-converter-app) | Currency Converter App: A simple iOS app for converting currencies. |
+| [![Simple Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=simple-calculator-app)](https://github.com/mtsfreitas/simple-calculator-app)  | Simple Calculator App: A basic calculator app built for iOS. |
 | [![SOLID](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=S-O-L-I-D)](https://github.com/mtsfreitas/S-O-L-I-D)  | SOLID Principles: Examples of SOLID design principles in Swift. |
 | [![Weather RESTful](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=WeatherRESTful)](https://github.com/mtsfreitas/WeatherRESTful) | Weather RESTful App: An iOS app to retrieve weather information using RESTful APIs. |
 | [![Swift Academy](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Swift-Academy)](https://github.com/mtsfreitas/Swift-Academy) | Swift Academy: Repository for Swift learning resources and projects. |
