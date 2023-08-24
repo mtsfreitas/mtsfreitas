@@ -116,7 +116,7 @@
 | [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=battleship-game-sockets)](https://github.com/mtsfreitas/battleship-game-sockets) | Battleship: A Java implementation of the classic game Battleship. |
 | [![Genius Game Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=genius-game-java)](https://github.com/mtsfreitas/genius-game-java) | Genius Game Java: A Java implementation of the classic Genius (Simon) game. |
 | [![Robocode](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=robocode)](https://github.com/mtsfreitas/robocode) | Robocode: A programming game where you code robot tanks to battle against each other. |
-| [![Problems in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=problems-in-java)](https://github.com/mtsfreitas/problems-in-java) | Problems in Java: A collection of Java programming problems and exercises. |
+| [![Programming in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=programming-in-java)](https://github.com/mtsfreitas/programming-in-java) | Programming in Java: A collection of Java exercises. |
 
 </details>
 
