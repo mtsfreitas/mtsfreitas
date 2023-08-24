@@ -3,7 +3,7 @@
 
 🎓 Computer Technician | 🏫 SENAI Santa Luzia CFP João Carlos Giovannini
 
-👨‍💻 2+ years of professional experience in <b>iOS Development</b>.
+👨‍💻 2+ years of professional experience in <b><u>iOS Development</b></u>.
 
 ## 🌐 Social
 <a href="https://www.linkedin.com/in/mtsfreitas/" target="_blank">
