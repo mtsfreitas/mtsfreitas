@@ -1,5 +1,6 @@
 ### Nice to meet you! 👋 I'm Matheus <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />
 🎓 Bachelor's Degree in Computer Science | 🏫 Universidade Federal de Viçosa (UFV).
+
 🎓 Computer Technician | 🏫 SENAI Santa Luzia CFP João Carlos Giovannini
 
 👨‍💻 2+ years of professional experience in <b>iOS Development</b>.
