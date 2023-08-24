@@ -88,6 +88,7 @@
 | [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Machine-Learning-Exercises)](https://github.com/mtsfreitas/Machine-Learning-Exercises) | Machine Learning Exercises: A collection of exercises and examples in machine learning. |
 | [![Photo Classification with Gradio](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=photo-classification-with-gradio)](https://github.com/mtsfreitas/photo-classification-with-gradio) | Photo Classification with Gradio: Collection and Classification of Photos Using Google Colab through the Gradio Interface. |
 | [![Configuring Environment on Azure](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=configuring-environment-on-azure)](https://github.com/mtsfreitas/configuring-environment-on-azure) | Configuring Environment on Azure: Configuration and installation of dependencies for a virtual machine in Azure for data processing. |
+| [![Spaceship Titanic](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=spaceship-titanic)](https://github.com/mtsfreitas/spaceship-titanic) | Spaceship Titanic: Repository for the Spaceship Titanic challenge using virtual machine in Azure. |
 
 </details>
 
