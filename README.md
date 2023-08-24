@@ -146,6 +146,8 @@
 | Project | Description |
 | ------- | ----------- |
 | [![CI&T Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=ciet-challenge)](https://github.com/mtsfreitas/ciet-challenge) | CI&T Challenge: A repository for the CI&T coding challenge. |
+| [![Data Engineering Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=data-engineering-challenge)](https://github.com/mtsfreitas/data-engineering-challenge/tree/main) | Data Engineering Challenge: Repository for the data engineering challenge. |
+
 </details>
 
 </div>
