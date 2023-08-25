@@ -91,6 +91,7 @@
 | [![Configuring Environment on Azure](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=configuring-environment-on-azure)](https://github.com/mtsfreitas/configuring-environment-on-azure) | Configuring Environment on Azure: Configuration and installation of dependencies for a virtual machine in Azure for data processing. |
 | [![Spaceship Titanic](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=spaceship-titanic)](https://github.com/mtsfreitas/spaceship-titanic) | Spaceship Titanic: Repository for the Spaceship Titanic challenge using virtual machine in Azure. |
 | [![Customer Churn](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=customer-churn)](https://github.com/mtsfreitas/customer-churn) | Customer Churn: Repository for the customer churn prediction project. |
+| [![Fantastic Bits](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=fantastic-bits)](https://github.com/mtsfreitas/fantastic-bits) | Fantastic Bits: Implementation of Bots in the Fantastic Bits game on the CodinGame website |
 
 </details>
 
