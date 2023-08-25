@@ -104,7 +104,7 @@
 </details>
 
 <details>
- <summary>🎨 Design </summary>
+ <summary>🎨 UI/UX Design </summary>
 
 | Project | Description |
 | ------- | ----------- |
