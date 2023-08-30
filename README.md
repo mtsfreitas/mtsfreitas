@@ -162,7 +162,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![iOS Knowledge Base](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=ciet-challenge)](https://github.com/mtsfreitas/iOS-knowledge-base) | iOS Knowledge Base: A repository containing summaries about swift and iOS development |
+| [![iOS Knowledge Base](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=iOS-knowledge-base)](https://github.com/mtsfreitas/iOS-knowledge-base) | iOS Knowledge Base: A repository containing summaries. |
 
 </details>
 
