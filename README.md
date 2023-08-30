@@ -160,9 +160,10 @@
 <details>
  <summary>📝 My Posts </summary>
 
-| Project | Description |
-| ------- | ----------- |
-| [![iOS Knowledge Base](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=iOS-knowledge-base)](https://github.com/mtsfreitas/iOS-knowledge-base) | iOS Knowledge Base: A repository containing summaries. |
+| Content    | Description     | Link |
+| --------------|-----|-----|
+| Closures 	|  <ul><li>What?</li><li>Why?</li><li>Where?</li><li>How?</li>	| [![Click Here](https://img.shields.io/badge/Ver%20Resumo%20-blue?style=for-the-badge)](https://github.com/mtsfreitas/swift-academy) |
+
 
 </details>
 
