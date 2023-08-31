@@ -160,9 +160,9 @@
 <details>
  <summary>📝 My Posts </summary>
 
-| Content    | Description     | Link (pt-BR) |
-| --------------|-----|-----|
-| Closures 	|  <ul><li>What?</li><li>Why?</li><li>Where?</li><li>How?</li>	| [![Link](https://img.shields.io/badge/Ver%20Conteúdo%20-blue?style=for-the-badge)](https://github.com/mtsfreitas/swift-academy) |
+| Content   | Link (pt-BR) |
+| ----------|-----|
+| Closures 	|  [![Link](https://img.shields.io/badge/Ver%20Conteúdo%20-blue?style=for-the-badge)]([https://github.com/mtsfreitas/swift-academy](https://github.com/mtsfreitas/iOS-knowledge-base/blob/main/Contents/closures.md)https://github.com/mtsfreitas/iOS-knowledge-base/blob/main/Contents/closures.md) |
 
 </details>
 
