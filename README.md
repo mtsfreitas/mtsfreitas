@@ -158,7 +158,7 @@
 </details>
 
 <details>
- <summary>📝 My Posts </summary>
+ <summary>📝 Notes </summary>
 
 | Content   | Link (pt-BR) |
 | ----------|-----|
