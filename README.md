@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://mtsfreitas.github.io" target="_blank">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/-RESUME-b83dba?style=for-the-badge" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/-RESUME-000000?style=for-the-badge" />
 </a>
 
 <!--
