@@ -16,12 +16,12 @@
 <a href="https://dev.to/mtsfreitas" target="_blank">
   <img align="center" alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a> -->
-<a href="https://www.beecrowd.com.br/judge/pt/profile/165068" target="_blank">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/-beecrowd-b83dba?style=for-the-badge" />
-</a>
-
 <a href="https://mtsfreitas.github.io" target="_blank">
   <img align="center" alt="html5" src="https://img.shields.io/badge/-RESUME-000000?style=for-the-badge" />
+</a>
+
+<a href="https://www.beecrowd.com.br/judge/pt/profile/165068" target="_blank">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/-beecrowd-b83dba?style=for-the-badge" />
 </a>
 
 <!--
