@@ -3,7 +3,7 @@
 
 🎓 Computer Technician | 🏫 [SENAI Santa Luzia CFP João Carlos Giovannini](https://www.fiemg.com.br/escolas/senai-santa-luzia-cfp-joao-carlos-giovannini/)
 
-🎓Computer Assembler and Repairer | 🏫 [SENAI Santa Luzia CFP João Carlos Giovannini](https://www.fiemg.com.br/escolas/senai-santa-luzia-cfp-joao-carlos-giovannini/)
+🎓 Computer Assembler and Repairer | 🏫 [SENAI Santa Luzia CFP João Carlos Giovannini](https://www.fiemg.com.br/escolas/senai-santa-luzia-cfp-joao-carlos-giovannini/)
 
 💼 2+ years of professional experience in <b>iOS Development</b>.
 
