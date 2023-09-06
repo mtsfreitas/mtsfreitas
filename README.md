@@ -169,7 +169,7 @@
 
 | Content   | Link (pt-BR) |
 | ----------|-----|
-| Closures 	|  [![Link](https://img.shields.io/badge/Ver%20Conteúdo%20-blue?style=for-the-badge)](https://matheusdev.notion.site/Closures-92fea946943341909766a4b2b6c05e1c) |
+| Notion Page 	|  [![Link](https://img.shields.io/badge/Ver%20Conteúdo%20-blue?style=for-the-badge)](https://matheusdev.notion.site/matheusdev/Notes-15d3879190c44442a2b4b2bd8467265f) |
 
 </details>
 
