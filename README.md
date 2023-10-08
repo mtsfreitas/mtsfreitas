@@ -84,7 +84,7 @@
 | [![Swift Academy](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=Swift-Academy)](https://github.com/mtsfreitas/Swift-Academy) | Swift Academy: Repository for Swift learning resources and projects. |
 | [![Santander Dev Week 2023 iOS](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=santander-dev-week-2023-ios)](https://github.com/mtsfreitas/santander-dev-week-2023-ios) | Santander Dev Week 2023 iOS: Repository for the Santander Dev Week 2023 iOS project. |
 | [![Teleprompter App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=teleprompter-app)](https://github.com/mtsfreitas/teleprompter-app) | Teleprompter App: An iOS app for teleprompting. |
-
+| [![Xib App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=xib)](https://github.com/mtsfreitas/xib) | Xib App: Simple example of using xib in a TableView. |
 </details>
 
 <details>
