@@ -127,6 +127,7 @@
 
 | Project | Description |
 | ------- | ----------- |
+| [![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=to-do-list)](https://github.com/mtsfreitas/to-do-list) | To-Do List: A Java Spring Boot application for managing tasks. |
 | [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=battleship-game-sockets)](https://github.com/mtsfreitas/battleship-game-sockets) | Battleship: A Java implementation of the classic game Battleship. |
 | [![Genius Game Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=genius-game-java)](https://github.com/mtsfreitas/genius-game-java) | Genius Game Java: A Java implementation of the classic Genius (Simon) game. |
 | [![Robocode](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=robocode)](https://github.com/mtsfreitas/robocode) | Robocode: A programming game where you code robot tanks to battle against each other. |
