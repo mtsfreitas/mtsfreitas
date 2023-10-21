@@ -167,7 +167,7 @@
 </details>
 
 <details>
- <summary>💾 Others</summary>
+ <summary>💾 Others ...</summary>
  
 <details>
  <summary>&nbsp;&nbsp;&nbsp;&nbsp;📝 Notes</summary>
