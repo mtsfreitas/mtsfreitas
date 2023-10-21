@@ -181,7 +181,7 @@
 <details>
  <summary>&nbsp;&nbsp;&nbsp;&nbsp;🛰️ Verilog</summary>
 
-| Content   | Link (pt-BR) |
+| Content   | Description |
 | ----------|-----|
 | [![Morse Code in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=morse-code-in-verilog)](https://github.com/mtsfreitas/morse-code-in-verilog) | Morse Code in Verilog: Repository for Morse Code implementation in Verilog. |
 | [![Electronic Voting Machine in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=electronic-voting-machine-in-verilog)](https://github.com/mtsfreitas/electronic-voting-machine-in-verilog) | Electronic Voting Machine in Verilog: Repository for electronic voting machine implementation in Verilog. |
