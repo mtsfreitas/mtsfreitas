@@ -8,9 +8,11 @@
 💼 2+ years of professional experience in <b>iOS Development</b>.
 
 ## 🌐 Social
-<a href="https://www.linkedin.com/in/mtsfreitas/" target="_blank">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtsfreitas/)
+[![Resume](https://img.shields.io/badge/-RESUME-20232A?style=for-the-badge&logo=googledocs&logoColor=white)](https://mtsfreitas.github.io)
+[![Beecrowd](https://img.shields.io/badge/-beecrowd-20232A?style=for-the-badge&logo=codesandbox&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/165068)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-20232A?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/mtsftsmts/)
+
 <!--<a href="mailto:mtsftsmts@gmail.com">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> -->
@@ -18,17 +20,8 @@
 <a href="https://dev.to/mtsfreitas" target="_blank">
   <img align="center" alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a> -->
-<a href="https://mtsfreitas.github.io" target="_blank">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/-RESUME-20232A?style=for-the-badge&logo=googledocs&logoColor=white" />
-</a>
 
-<a href="https://www.beecrowd.com.br/judge/pt/profile/165068" target="_blank">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/-beecrowd-20232A?style=for-the-badge&logo=codesandbox&logoColor=white" />
-</a>
 
-<a href="https://leetcode.com/mtsftsmts/" target="_blank">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/-LeetCode-20232A?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  
 ## 💻 Skills
 
 <details>
