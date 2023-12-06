@@ -100,7 +100,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=java&repo=task_manager)](https://github.com/mtsfreitas/task_manager) | Task Manager: A React application for managing tasks. |
+| [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=task-manager)](https://github.com/mtsfreitas/task-manager) | Task Manager: A React application for managing tasks. |
 | [![PackageTrack](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=packagetrack)](https://github.com/mtsfreitas/packagetrack) | PackageTrack: A web-based package tracking application. |
 | [![MaBank CRUD](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=mabank-crud)](https://github.com/mtsfreitas/mabank-crud) | MaBank CRUD: A web-based CRUD application for managing bank accounts. |
 </details>
