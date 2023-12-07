@@ -60,8 +60,8 @@
 <details>
   <summary> 👅 Top 10 most used languages on my github projects </summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&theme=swift&hide_border=true&hide_progress=true&layout=compact&langs_count=10)](https://github.com/mtsfreitas)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtsfreitas&theme=swift&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&theme=dark&hide_border=true&hide_progress=true&layout=compact&langs_count=10)](https://github.com/mtsfreitas)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtsfreitas&theme=dark&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </details>
 
 ## 📚 My public projects
@@ -71,14 +71,14 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=currency-converter-app)](https://github.com/mtsfreitas/currency-converter-app) | Currency Converter App: A simple iOS app for converting currencies. |
-| [![Simple Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=simple-calculator-app)](https://github.com/mtsfreitas/simple-calculator-app)  | Simple Calculator App: A basic calculator app built for iOS. |
-| [![SOLID](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=S-O-L-I-D)](https://github.com/mtsfreitas/S-O-L-I-D)  | SOLID Principles: Examples of SOLID design principles in Swift. |
-| [![Weather RESTful](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=WeatherRESTful)](https://github.com/mtsfreitas/WeatherRESTful) | Weather RESTful App: An iOS app to retrieve weather information using RESTful APIs. |
-| [![Swift Academy](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=Swift-Academy)](https://github.com/mtsfreitas/Swift-Academy) | Swift Academy: Repository for Swift learning resources and projects. |
-| [![Santander Dev Week 2023 iOS](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=santander-dev-week-2023-ios)](https://github.com/mtsfreitas/santander-dev-week-2023-ios) | Santander Dev Week 2023 iOS: Repository for the Santander Dev Week 2023 iOS project. |
-| [![Teleprompter App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=teleprompter-app)](https://github.com/mtsfreitas/teleprompter-app) | Teleprompter App: An iOS app for teleprompting. |
-| [![Xib App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=xib)](https://github.com/mtsfreitas/xib) | Xib App: Simple example of using xib in a TableView. |
+| [![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=currency-converter-app)](https://github.com/mtsfreitas/currency-converter-app) | Currency Converter App: A simple iOS app for converting currencies. |
+| [![Simple Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=simple-calculator-app)](https://github.com/mtsfreitas/simple-calculator-app)  | Simple Calculator App: A basic calculator app built for iOS. |
+| [![SOLID](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=S-O-L-I-D)](https://github.com/mtsfreitas/S-O-L-I-D)  | SOLID Principles: Examples of SOLID design principles in Swift. |
+| [![Weather RESTful](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=WeatherRESTful)](https://github.com/mtsfreitas/WeatherRESTful) | Weather RESTful App: An iOS app to retrieve weather information using RESTful APIs. |
+| [![Swift Academy](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=Swift-Academy)](https://github.com/mtsfreitas/Swift-Academy) | Swift Academy: Repository for Swift learning resources and projects. |
+| [![Santander Dev Week 2023 iOS](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=santander-dev-week-2023-ios)](https://github.com/mtsfreitas/santander-dev-week-2023-ios) | Santander Dev Week 2023 iOS: Repository for the Santander Dev Week 2023 iOS project. |
+| [![Teleprompter App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=teleprompter-app)](https://github.com/mtsfreitas/teleprompter-app) | Teleprompter App: An iOS app for teleprompting. |
+| [![Xib App](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=xib)](https://github.com/mtsfreitas/xib) | Xib App: Simple example of using xib in a TableView. |
 </details>
 
 <details>
@@ -86,13 +86,13 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Drop Master](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=Drop-Master)](https://github.com/mtsfreitas/Drop-Master) | Drop Master: A machine learning project focused on mastering the art of drops. |
-| [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=Machine-Learning-Exercises)](https://github.com/mtsfreitas/Machine-Learning-Exercises) | Machine Learning Exercises: A collection of exercises and examples in machine learning. |
-| [![Photo Classification with Gradio](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=photo-classification-with-gradio)](https://github.com/mtsfreitas/photo-classification-with-gradio) | Photo Classification with Gradio: Collection and Classification of Photos Using Google Colab through the Gradio Interface. |
-| [![Configuring Environment on Azure](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=configuring-environment-on-azure)](https://github.com/mtsfreitas/configuring-environment-on-azure) | Configuring Environment on Azure: Configuration and installation of dependencies for a virtual machine in Azure for data processing. |
-| [![Spaceship Titanic](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=spaceship-titanic)](https://github.com/mtsfreitas/spaceship-titanic) | Spaceship Titanic: Repository for the Spaceship Titanic challenge using virtual machine in Azure. |
-| [![Customer Churn](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=customer-churn)](https://github.com/mtsfreitas/customer-churn) | Customer Churn: Repository for the customer churn prediction project. |
-| [![Fantastic Bits](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=fantastic-bits)](https://github.com/mtsfreitas/fantastic-bits) | Fantastic Bits: Implementation of Bots in the Fantastic Bits game on the CodinGame website |
+| [![Drop Master](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=Drop-Master)](https://github.com/mtsfreitas/Drop-Master) | Drop Master: A machine learning project focused on mastering the art of drops. |
+| [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=Machine-Learning-Exercises)](https://github.com/mtsfreitas/Machine-Learning-Exercises) | Machine Learning Exercises: A collection of exercises and examples in machine learning. |
+| [![Photo Classification with Gradio](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=photo-classification-with-gradio)](https://github.com/mtsfreitas/photo-classification-with-gradio) | Photo Classification with Gradio: Collection and Classification of Photos Using Google Colab through the Gradio Interface. |
+| [![Configuring Environment on Azure](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=configuring-environment-on-azure)](https://github.com/mtsfreitas/configuring-environment-on-azure) | Configuring Environment on Azure: Configuration and installation of dependencies for a virtual machine in Azure for data processing. |
+| [![Spaceship Titanic](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=spaceship-titanic)](https://github.com/mtsfreitas/spaceship-titanic) | Spaceship Titanic: Repository for the Spaceship Titanic challenge using virtual machine in Azure. |
+| [![Customer Churn](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=customer-churn)](https://github.com/mtsfreitas/customer-churn) | Customer Churn: Repository for the customer churn prediction project. |
+| [![Fantastic Bits](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=fantastic-bits)](https://github.com/mtsfreitas/fantastic-bits) | Fantastic Bits: Implementation of Bots in the Fantastic Bits game on the CodinGame website |
 
 </details>
 
@@ -101,9 +101,9 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=task-manager)](https://github.com/mtsfreitas/task-manager) | Task Manager: A React application for managing tasks. |
-| [![PackageTrack](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=packagetrack)](https://github.com/mtsfreitas/packagetrack) | PackageTrack: A web-based package tracking application. |
-| [![MaBank CRUD](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=mabank-crud)](https://github.com/mtsfreitas/mabank-crud) | MaBank CRUD: A web-based CRUD application for managing bank accounts. |
+| [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=task-manager)](https://github.com/mtsfreitas/task-manager) | Task Manager: A React application for managing tasks. |
+| [![PackageTrack](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=packagetrack)](https://github.com/mtsfreitas/packagetrack) | PackageTrack: A web-based package tracking application. |
+| [![MaBank CRUD](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=mabank-crud)](https://github.com/mtsfreitas/mabank-crud) | MaBank CRUD: A web-based CRUD application for managing bank accounts. |
 </details>
 
 <details>
@@ -111,9 +111,9 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Chimera App Design](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=chimera-app-design)](https://github.com/mtsfreitas/chimera-app-design) | Chimera App Design: Design assets for the Chimera app project. |
-| [![App Video Presentation](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=app-video-presentation)](https://github.com/mtsfreitas/app-video-presentation) | App Video Presentation: Design and assets for an app video presentation. |
-| [![Arts Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=arts-portfolio)](https://github.com/mtsfreitas/arts-portfolio) | Arts Portfolio: A collection of artistic works and designs. |
+| [![Chimera App Design](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=chimera-app-design)](https://github.com/mtsfreitas/chimera-app-design) | Chimera App Design: Design assets for the Chimera app project. |
+| [![App Video Presentation](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=app-video-presentation)](https://github.com/mtsfreitas/app-video-presentation) | App Video Presentation: Design and assets for an app video presentation. |
+| [![Arts Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=arts-portfolio)](https://github.com/mtsfreitas/arts-portfolio) | Arts Portfolio: A collection of artistic works and designs. |
 </details>
 
 <details>
@@ -121,15 +121,15 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=to-do-list)](https://github.com/mtsfreitas/to-do-list) | To-Do List: A Java Spring Boot application for managing tasks. |
-| [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=battleship-game-sockets)](https://github.com/mtsfreitas/battleship-game-sockets) | Battleship: A Java implementation of the classic game Battleship. |
-| [![Genius Game Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=genius-game-java)](https://github.com/mtsfreitas/genius-game-java) | Genius Game Java: A Java implementation of the classic Genius (Simon) game. |
-| [![Robocode](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=robocode)](https://github.com/mtsfreitas/robocode) | Robocode: A programming game where you code robot tanks to battle against each other. |
-| [![Programming in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=programming-in-java)](https://github.com/mtsfreitas/programming-in-java) | Programming in Java: A collection of Java exercises. |
-| [![Polymorphism in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=polymorphism-in-java)](https://github.com/mtsfreitas/polymorphism-in-java) | Polymorphism in Java: Examples and explanations of polymorphism in Java. |
-| [![Electronic Voting Machine](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=electronic-voting-machine)](https://github.com/mtsfreitas/electronic-voting-machine) | Electronic Voting Machine: Repository for the electronic-voting-machine project. |
-| [![Payroll](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=payroll)](https://github.com/mtsfreitas/payroll) | Payroll: A Java project for payroll management using modularization. |
-| [![Commercial Management](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=commercial-management)](https://github.com/mtsfreitas/commercial-management) | Commercial Management: Repository for the commercial management project. |
+| [![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=to-do-list)](https://github.com/mtsfreitas/to-do-list) | To-Do List: A Java Spring Boot application for managing tasks. |
+| [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=battleship-game-sockets)](https://github.com/mtsfreitas/battleship-game-sockets) | Battleship: A Java implementation of the classic game Battleship. |
+| [![Genius Game Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=genius-game-java)](https://github.com/mtsfreitas/genius-game-java) | Genius Game Java: A Java implementation of the classic Genius (Simon) game. |
+| [![Robocode](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=robocode)](https://github.com/mtsfreitas/robocode) | Robocode: A programming game where you code robot tanks to battle against each other. |
+| [![Programming in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=programming-in-java)](https://github.com/mtsfreitas/programming-in-java) | Programming in Java: A collection of Java exercises. |
+| [![Polymorphism in Java](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=polymorphism-in-java)](https://github.com/mtsfreitas/polymorphism-in-java) | Polymorphism in Java: Examples and explanations of polymorphism in Java. |
+| [![Electronic Voting Machine](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=electronic-voting-machine)](https://github.com/mtsfreitas/electronic-voting-machine) | Electronic Voting Machine: Repository for the electronic-voting-machine project. |
+| [![Payroll](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=payroll)](https://github.com/mtsfreitas/payroll) | Payroll: A Java project for payroll management using modularization. |
+| [![Commercial Management](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=commercial-management)](https://github.com/mtsfreitas/commercial-management) | Commercial Management: Repository for the commercial management project. |
 
 </details>
 
@@ -138,8 +138,8 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![Intro to C Programming](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=intro-to-c-programming)](https://github.com/mtsfreitas/intro-to-c-programming) | Intro to C Programming: A repository for learning the basics of C programming. |
-| [![Academic Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=academic-management)](https://github.com/mtsfreitas/academic-management) | Academic Management: A comprehensive school academic management system developed using Object-Oriented Programming (OOP) principles. |
+| [![Intro to C Programming](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=intro-to-c-programming)](https://github.com/mtsfreitas/intro-to-c-programming) | Intro to C Programming: A repository for learning the basics of C programming. |
+| [![Academic Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=academic-management)](https://github.com/mtsfreitas/academic-management) | Academic Management: A comprehensive school academic management system developed using Object-Oriented Programming (OOP) principles. |
 </details>
 
 <details>
@@ -147,8 +147,8 @@
 
 | Project | Description |
 | ------- | ----------- |
-| [![CI&T Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=ciet-challenge)](https://github.com/mtsfreitas/ciet-challenge) | CI&T Challenge: A repository for the CI&T coding challenge. |
-| [![Data Engineering Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=data-engineering-challenge)](https://github.com/mtsfreitas/data-engineering-challenge/tree/main) | Data Engineering Challenge: Repository for the data engineering challenge. |
+| [![CI&T Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=ciet-challenge)](https://github.com/mtsfreitas/ciet-challenge) | CI&T Challenge: A repository for the CI&T coding challenge. |
+| [![Data Engineering Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=data-engineering-challenge)](https://github.com/mtsfreitas/data-engineering-challenge/tree/main) | Data Engineering Challenge: Repository for the data engineering challenge. |
 
 </details>
 
@@ -169,9 +169,9 @@
 
 | Content   | Description |
 | ----------|-----|
-| [![Morse Code in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=morse-code-in-verilog)](https://github.com/mtsfreitas/morse-code-in-verilog) | Morse Code in Verilog: Repository for Morse Code implementation in Verilog. |
-| [![Electronic Voting Machine in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=electronic-voting-machine-in-verilog)](https://github.com/mtsfreitas/electronic-voting-machine-in-verilog) | Electronic Voting Machine in Verilog: Repository for electronic voting machine implementation in Verilog. |
-| [![Cesar Cipher in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift &repo=cesar-cipher-in-verilog)](https://github.com/mtsfreitas/cesar-cipher-in-verilog) | Cesar Cipher in Verilog: Repository for Cesar Cipher implementation in Verilog. |
+| [![Morse Code in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=morse-code-in-verilog)](https://github.com/mtsfreitas/morse-code-in-verilog) | Morse Code in Verilog: Repository for Morse Code implementation in Verilog. |
+| [![Electronic Voting Machine in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=electronic-voting-machine-in-verilog)](https://github.com/mtsfreitas/electronic-voting-machine-in-verilog) | Electronic Voting Machine in Verilog: Repository for electronic voting machine implementation in Verilog. |
+| [![Cesar Cipher in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark &repo=cesar-cipher-in-verilog)](https://github.com/mtsfreitas/cesar-cipher-in-verilog) | Cesar Cipher in Verilog: Repository for Cesar Cipher implementation in Verilog. |
 </details>
 
 <details>
