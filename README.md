@@ -61,7 +61,7 @@
   <summary> 👅 Top 10 most used languages on my github projects </summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsfreitas&hide_progress=true&layout=compact&langs_count=10)](https://github.com/mtsfreitas)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mtsfreitas&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ---
 </details>
 
