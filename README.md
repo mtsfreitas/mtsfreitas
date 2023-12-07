@@ -163,7 +163,7 @@
 
 <details>
  <summary>💾 Others ...</summary>
- 
+ <br>
 <details>
  <summary>&nbsp;&nbsp;&nbsp;&nbsp;📝 Notes</summary>
 
