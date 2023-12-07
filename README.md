@@ -152,7 +152,7 @@
 </details>
 
 <details>
- <summary>👨‍💻 Coding Challenges </summary>
+ <summary>🔥 Coding Challenges </summary>
 
 | Project | Description |
 | ------- | ----------- |
