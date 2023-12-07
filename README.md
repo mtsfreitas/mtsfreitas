@@ -144,14 +144,6 @@
 </details>
 
 <details>
- <summary>📊 R </summary>
-
-| Project | Description |
-| ------- | ----------- |
-| [![Statistical Analysis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&repo=statistical-analysis)](https://github.com/mtsfreitas/statistical-analysis) | Statistical Analysis: statistical analysis projects. |
-</details>
-
-<details>
  <summary>🔥 Coding Challenges </summary>
 
 | Project | Description |
@@ -181,15 +173,16 @@
 | [![Morse Code in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=morse-code-in-verilog)](https://github.com/mtsfreitas/morse-code-in-verilog) | Morse Code in Verilog: Repository for Morse Code implementation in Verilog. |
 | [![Electronic Voting Machine in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=electronic-voting-machine-in-verilog)](https://github.com/mtsfreitas/electronic-voting-machine-in-verilog) | Electronic Voting Machine in Verilog: Repository for electronic voting machine implementation in Verilog. |
 | [![Cesar Cipher in Verilog](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=swift&repo=cesar-cipher-in-verilog)](https://github.com/mtsfreitas/cesar-cipher-in-verilog) | Cesar Cipher in Verilog: Repository for Cesar Cipher implementation in Verilog. |
-
 </details>
 
+<details>
+ <summary>&nbsp;&nbsp;&nbsp;&nbsp;📊 R </summary>
 
-
+| Project | Description |
+| ------- | ----------- |
+| [![Statistical Analysis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&repo=statistical-analysis)](https://github.com/mtsfreitas/statistical-analysis) | Statistical Analysis: statistical analysis projects. |
 </details>
 
-
-
-
+</details>
 
 </div>
