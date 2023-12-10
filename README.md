@@ -1,4 +1,6 @@
 ### Nice to meet you! 👋 I'm Matheus <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />
+<img height=200 align="right" src="https://github.com/mtsfreitas/mtsfreitas/assets/21324690/3934fae9-eeb2-4f82-84f7-4885f898f373" >
+
 🎓 Bachelor's Degree in Computer Science | [Universidade Federal de Viçosa (UFV)](https://www.ufv.br/)
 
 🎓 Computer Technician | [SENAI Santa Luzia CFP João Carlos Giovannini](https://www.fiemg.com.br/escolas/senai-santa-luzia-cfp-joao-carlos-giovannini/)
