@@ -142,7 +142,9 @@
 | ------- | ----------- |
 | [![Intro to C Programming](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark&repo=intro-to-c-programming)](https://github.com/mtsfreitas/intro-to-c-programming) | Intro to C Programming: A repository for learning the basics of C programming. |
 | [![Academic Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark&repo=academic-management)](https://github.com/mtsfreitas/academic-management) | Academic Management: A comprehensive school academic management system developed using Object-Oriented Programming (OOP) principles. |
+| [![Beecrowd Challenges](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mtsfreitas&theme=dark&repo=beecrowd-challenges)](https://github.com/mtsfreitas/beecrowd-challenges) | Beecrowd Challenges: A collection of solutions for various competitive programming challenges from Beecrowd. |
 </details>
+
 
 <details>
  <summary>🔥 Coding Challenges </summary>
