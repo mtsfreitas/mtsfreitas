@@ -89,6 +89,7 @@
 
 | Project | Description |
 | ------- | ----------- |
+| [![Chat Senior Friend](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark&repo=chat-senior-friend)](https://github.com/mtsfreitas/chat-senior-friend) | Senior Friend: An AI-powered project that integrates with OpenAI's ChatGPT API. |
 | [![Drop Master](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark&repo=Drop-Master)](https://github.com/mtsfreitas/Drop-Master) | Drop Master: A machine learning project focused on mastering the art of drops. |
 | [![Machine Learning Exercises](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark&repo=Machine-Learning-Exercises)](https://github.com/mtsfreitas/Machine-Learning-Exercises) | Machine Learning Exercises: A collection of exercises and examples in machine learning. |
 | [![Photo Classification with Gradio](https://github-readme-stats.vercel.app/api/pin/?username=mtsfreitas&theme=dark&repo=photo-classification-with-gradio)](https://github.com/mtsfreitas/photo-classification-with-gradio) | Photo Classification with Gradio: Collection and Classification of Photos Using Google Colab through the Gradio Interface. |
