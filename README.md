@@ -11,7 +11,7 @@
 
 💼 4+ years of professional experience in <b>iOS Development</b>.
 
-👨‍💻 <b>10+ years</b> programming.
+👨‍💻 <b>11+ years</b> programming.
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtsfreitas/)
